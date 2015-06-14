@@ -1,2 +1,2 @@
 # ds-practicalmachinelearning
-Practical Machine Learning
+PRACTICAL Machine Learning
